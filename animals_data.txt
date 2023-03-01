@@ -1,0 +1,39 @@
+Are you a mammal?
+Do you live in the water?
+Are you by far the largest animal in the world?
+Whales
+#NULL
+#NULL
+Do you live in the Arctic?
+Polar bear
+#NULL
+#NULL
+Dolphin
+#NULL
+#NULL
+Are you often used as a human mount?
+Horse
+#NULL
+#NULL
+Do you have horns on your head?
+Cow
+#NULL
+#NULL
+Pig
+#NULL
+#NULL
+Do you often stick your tongue out?
+Do you have limbs?
+Lizards
+#NULL
+#NULL
+Snake
+#NULL
+#NULL
+Do you have teeth?
+Crocodile
+#NULL
+#NULL
+Turtle
+#NULL
+#NULL
